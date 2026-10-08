@@ -187,13 +187,6 @@ Semua parameter utama ada di **bagian atas `main.py` (baris 19–53)**:
 
 ---
 
-## 🤝 Kontribusi
-
-1. Fork repo
-2. Buat branch: `git checkout -b fitur-baru`
-3. Commit: `git commit -m "Tambah fitur X"`
-4. Push: `git push origin fitur-baru`
-5. Buat Pull Request
 
 ---
 
